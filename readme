@@ -1,0 +1,1 @@
+Div o klasie main ( z zawartością "jesteś zalogowany jako" itd) ma wykomenowaną w css klasę "alone" - chciałabym, żeby była aktywna po włączeniu panelu i wyłączała się gdy pojawi się jakakolwiek gra do podglądu.
